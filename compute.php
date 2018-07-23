@@ -41,8 +41,6 @@ echo '<select name="year">';
 }
 echo '</select>';
 ?>
-<form name="frm" method="post" action="">
-<input type="submit" name="submit" value="Calculate"/>
 
 <?php
  if(isset($_POST['submit'])){
@@ -75,4 +73,3 @@ echo "Your Age: ".$interval->y;
 
 
 ?>
-</form>
