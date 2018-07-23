@@ -41,7 +41,7 @@ echo '<select name="year">';
 }
 echo '</select>';
 ?>
-<form name="frm" method="post" action="compute.php">
+<form name="frm" method="post" action="">
 <input type="submit" name="submit" value="Calculate"/>
 	
 <?php
