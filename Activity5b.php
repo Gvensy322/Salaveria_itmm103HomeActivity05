@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
 <body>
+  <head>
+    <title>Read,Display,Create New Line Hello World</title>
+  </head>
 
   <h>Activity 5b.1</h>
   <br>
